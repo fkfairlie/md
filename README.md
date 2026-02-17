@@ -28,6 +28,9 @@ README
 	
 	<iframe src="https://uploads.knightlab.com/storymapjs/db67b1cd5186fb08807e848fd17babc2/stadiums-in-scotland/draft.html" frameborder="0" width="100%" height="800"></iframe>
 </p>
+
+	<iframe title="Scotland's Carbon Emissions" aria-label="Line chart" id="datawrapper-chart-h1v2Y" src="https://datawrapper.dwcdn.net/h1v2Y/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+
 	
 	<div class="flourish-embed flourish-photo-slider" data-src="visualisation/27291084"><script 	src="https://public.flourish.studio/resources/embed.js"></script><noscript><img 	src="https://public.flourish.studio/visualisation/27291084/thumbnail" width="100%" alt="photo-slider 	visualization" /></noscript></div>
 
