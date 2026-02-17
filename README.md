@@ -22,23 +22,21 @@ README
   <h1>P3471 Instructor Space | Chamil Rathnayake</h1>
 	<h2>Activity 1: Image Slider</h2>
 	
-	<p1> <iframe src=https://datawrapper.dwcdn.net/h1v2Y/1></iframe>
-
-	<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRcMh_iLl50UTFmCvXYZHuPr8F9eoppB1JlREFu4qZDoro31hQhf7m8WGq3XY_JwurTzCH5CwN3zhSw&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+	<p1> <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRcMh_iLl50UTFmCvXYZHuPr8F9eoppB1JlREFu4qZDoro31hQhf7m8WGq3XY_JwurTzCH5CwN3zhSw&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 	
 	<iframe src="https://uploads.knightlab.com/storymapjs/db67b1cd5186fb08807e848fd17babc2/stadiums-in-scotland/draft.html" frameborder="0" width="100%" height="800"></iframe>
 </p>
 
-	<iframe title="Scotland's Carbon Emissions" aria-label="Line chart" id="datawrapper-chart-h1v2Y" src="https://datawrapper.dwcdn.net/h1v2Y/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
-
 	
-	<div class="flourish-embed flourish-photo-slider" data-src="visualisation/27291084"><script 	src="https://public.flourish.studio/resources/embed.js"></script><noscript><img 	src="https://public.flourish.studio/visualisation/27291084/thumbnail" width="100%" alt="photo-slider 	visualization" /></noscript></div>
+	<div class="flourish-embed flourish-photo-slider" data-src="visualisation/27291084">
+	
+	<script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img 	src="https://public.flourish.studio/visualisation/27291084/thumbnail" width="100%" alt="photo-slider 	visualization" /></noscript></div>
 
 	<div class="flourish-embed flourish-chart" data-src="visualisation/27677937"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/27677937/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
 	<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRcMh_iLl50UTFmCvXYZHuPr8F9eoppB1JlREFu4qZDoro31hQhf7m8WGq3XY_JwurTzCH5CwN3zhSw&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 	
-	<p1>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 	industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and 	scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into 	electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release 	of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software 	like Aldus PageMaker including versions of Lorem Ipsum.</p>
+	
 
 	<iframe title="Scotland's Carbon Emissions" aria-label="Line chart" id="datawrapper-chart-h1v2Y" src="https://datawrapper.dwcdn.net/h1v2Y/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
